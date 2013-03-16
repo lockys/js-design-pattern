@@ -110,11 +110,11 @@ In large project, with many different programmers writing code, interfaces are e
 #Patterns that rely on the interface
 
 
-## The factory pattern
+- The factory pattern
 
-## The composite pattern
+- The composite pattern
 
-## The decorator pattern
+- The decorator pattern
 
-## The command pattern
+- The command pattern
 
