@@ -1,1 +1,1 @@
-Some different ways you can accomplished in JavaScript.
+Here are some JavaScript Design Patterns.
