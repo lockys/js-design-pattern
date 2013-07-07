@@ -3,7 +3,7 @@ var CompositeForm = function(id, method, action) {
 
 	this.element = document.createElement('form');
 	this.element.id = id;
-	this.element.method - method || 'POST';
+	this.element.method = method || 'POST';
 	this.element.action = action || '#';
 };
 
